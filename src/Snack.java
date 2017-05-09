@@ -4,4 +4,7 @@ public class Snack {
 	public Snack(String name){
 		snackName = name;
 	}
+	public String getName(){
+		return snackName;
+	}
 }

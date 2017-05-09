@@ -4,5 +4,6 @@ public class OurFavorites {
 		String favorites = "COOL FOOD";
 		System.out.println("My favorite is... " + favorites + "!");
 		System.out.println("haha no but for real, what's going on");
+		System.out.println("...But this is actually not my favorite. :(");
 	}
 }
